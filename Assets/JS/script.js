@@ -1,6 +1,7 @@
 const secondHand = document.querySelector(".second-hand");
 const minuteHand = document.querySelector(".min-hand");
 const hourHand = document.querySelector(".hour-hand");
+const weekDay = document.querySelector(".month-and-day");
 
 function setDate() {
     const now = new Date();
@@ -18,4 +19,3 @@ function setDate() {
 }
 
 setInterval(setDate, 1000);
-
