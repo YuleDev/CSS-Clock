@@ -7,7 +7,7 @@ This is a project that I completed with the help of WesBos coding. It utilized C
 ![image](https://user-images.githubusercontent.com/95316362/155767086-11dcaaab-4400-4d34-b95c-e7fe27a84c92.png)
 
 ## Site Repo
-https://github.com/BullMooseDev/CSS-Clock
+https://github.com/YuleDev/CSS-Clock
 
 ## Deployed Site
-https://bullmoosedev.github.io/CSS-Clock/
+https://YuleDev.github.io/CSS-Clock/
